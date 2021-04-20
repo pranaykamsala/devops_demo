@@ -1,5 +1,4 @@
 #!/bin/bash
-#entering the username from keyboard
 read -p  "enter the username :" USER_NAME
 #can give argument through running along with script by below condition
 #[ Users=”$(@)” (or) Users=”$1, $2, $3”]
