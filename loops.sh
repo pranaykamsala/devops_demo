@@ -21,4 +21,5 @@ else
    echo $USER_PASS | passwd --stdin $USER_NAME
    echo " new user created succefully"
 fi
+echo "this is sample change"
 
